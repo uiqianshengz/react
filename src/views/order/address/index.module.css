@@ -1,0 +1,18 @@
+.address{
+    background-color: #fff;
+    margin: 25px;
+}
+/* .ant-layout-content{
+    background-color: #fff;
+    margin: 25px;
+} */
+.header{
+    height: 70px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.fromBtn{
+    display: flex;
+    justify-content: flex-end;
+}

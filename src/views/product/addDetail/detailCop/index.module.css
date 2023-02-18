@@ -1,0 +1,60 @@
+.formItemTable {
+    border-bottom: 1px solid #e5e5e5;
+    text-align: left;
+    font-size: 16px;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.addBtn {
+    width: 100%;
+    height: 100%;
+    background-color: #fafafa;
+    border: #fafafa;
+    border: none;
+    
+}
+.addBtn:hover {
+    color: #409eff;
+}
+
+/* 第二页 */
+.row1 {
+    width: 100%;
+    text-align: left;
+    padding: 0px 20px;
+    display: flex;
+}
+
+.checkboxGroup {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.addSku {
+    margin-left: 100px;
+}
+
+
+
+/* sku Table */
+.editableCell {
+    position: relative;
+}
+
+.editableCellValueWrap {
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+.editableRow:hover .editableCellValueWrap {
+    padding: 4px 11px;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+}

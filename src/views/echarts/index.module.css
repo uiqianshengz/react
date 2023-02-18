@@ -1,0 +1,83 @@
+.ecahrtsBox {
+    width: 100%;
+    height: 100%;
+    border-bottom: none;
+    color: #98a6d1;
+    box-sizing: border-box;
+
+    background-color: #001529;
+    /* background-image: url('../../assets/dashboardBG.png'); */
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.ecahrtsContene {
+    display: flex;
+    width: 100%;
+    height: 80%;
+    border-bottom: none;
+    color: #98a6d1;
+    display: flex;
+    padding: 0 25px;
+}
+
+.titleechart {
+    height: 15%;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 0 0 50px rgb(237, 237, 237);
+    background-image: url('../../assets/titleBG.png');
+    background-size: 90% 90%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+
+}
+
+.left,
+.right {
+    box-sizing: border-box;
+    flex-basis: 30%;
+    /* padding: 20px; */
+    /* background-color: palegreen; */
+}
+
+.center {
+    flex-basis: 40%;
+    background-color: palegoldenrod;
+    box-sizing: border-box;
+}
+
+.leftTitel {
+    box-sizing: border-box;
+    font-size: 24px;
+    /* color: white; */
+    font-weight: bold;
+}
+
+.sacleNumb {
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+
+.ant-statistic .ant-statistic-content {
+ 
+    font-weight: bolder;
+
+}
+
+.ant-slider.ant-slider-disabled .ant-slider-track {
+    background-color: rgba(255, 255, 255, 0.25) !important;
+}
+
+.ant-slider .ant-slider-track {
+    background-color: rgba(255, 251, 251, 0.25) !important;
+}
+.sliders{
+    background-color: #001529 !important;
+}

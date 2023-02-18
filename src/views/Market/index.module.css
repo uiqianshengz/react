@@ -1,0 +1,25 @@
+.boxmarke {
+    padding: 20px;
+}
+
+.boxcontent {
+    background-color: white;
+    padding: 20px;
+}
+
+.btnbox {
+    padding: 5px 0;
+    border-bottom: 1px solid rgb(232, 232, 232);
+}
+
+.serchbox {
+    width:100%;
+    margin: 0 auto;
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+}
+
+.serchtitle {
+    padding: 10px;
+    border-bottom: 1px solid #c9c9c9;
+}

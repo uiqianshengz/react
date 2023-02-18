@@ -1,0 +1,32 @@
+.detailBox{
+    background-color: #fff;
+    margin: 20px;
+    /* height: 100vh; */
+    padding: 20px;
+}
+.detailHeader{
+    margin: 20px 20px;
+    padding: 10px 60px 40px;
+    border-bottom: 3px solid #f4f4f4;
+
+}
+.messageShow{
+    margin: 20px 0;
+}
+.messageShow h2{
+    font-size: 16px;
+    margin-bottom:30px ;
+}
+.messageDetail{
+    display: flex;
+    flex-flow: row wrap;
+    flex: 1;
+}
+.messageDetail .item{
+    width:25%;
+    margin-bottom: 15px;
+
+}
+.messageDetail .item span{
+    margin-right: 10px;
+}

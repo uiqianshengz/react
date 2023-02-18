@@ -1,0 +1,44 @@
+.box {
+  padding: 25px;
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.content {
+  width: 100%;
+  padding: 20px;
+  background-color: white;
+}
+
+.btnbox {
+  padding: 5px 0;
+  border-bottom: 1px solid rgb(232, 232, 232);
+}
+
+.imgs {
+  width: 40px;
+  height: 40px;
+}
+
+.formbox {
+  display: flex;
+  justify-content: space-between;
+}
+
+.formitem {
+  flex-basis: 50%;
+}
+
+.formsbox {
+  position: relative;
+}
+
+.sumit {
+  display: flex;
+
+}
+
+.sumits {
+  display: flex;
+  justify-content: flex-end;
+}

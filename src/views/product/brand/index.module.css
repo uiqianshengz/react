@@ -1,0 +1,56 @@
+.brandBox {
+    margin: 25px;
+    background-color: #fff;
+}
+/* 头部新增 */
+.header {
+    padding: 18px 20px;
+    border-bottom: 1px solid #ebeef5;
+}
+/* 主体 */
+.body {
+    padding: 20px;
+}
+/* 表格 */
+.tables {
+    margin-bottom: 10px;
+}
+
+
+/* 图片 */
+.logo, .bigPic {
+    width: 100px;
+    height: 100px;
+}
+
+/* 编辑按钮和删除按钮 */
+.deleteBtn {
+    margin-left: 8px;
+}
+.editBtn, .deleteBtn {
+    text-align: center;
+    width: 30px;
+}
+
+/* from表单 */
+.froms {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1000,
+}
+.items {
+    flex: 1;
+    min-width: calc((100% - 50px) / 2);
+    margin: 10px;
+}
+.fromBtn {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.fromBtn>div {
+    margin: 5px 5px 0 ;
+}
+

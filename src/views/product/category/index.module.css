@@ -1,0 +1,33 @@
+.cateBox{
+        margin: 20px;
+        background-color: #fff;
+        padding: 0px 20px;
+}
+.cateHeader{
+    color: #303133;
+    font-size: 16px;
+    height: 55px;
+    line-height: 55px;
+    margin: 0;
+    border-bottom: 1px solid #f4f4f4;
+}
+.brandList{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-flow:row nowrap;
+    margin-bottom: 20px;
+}
+.brandList .item{
+    height:400px;
+    border: 1px solid #ebeef5;
+    margin-right: 16px;
+} 
+.title{
+    padding: 18px 20px;
+    color: #303133;
+    font-size: 16px;
+    margin: 0;
+    border-bottom: 1px solid #ebeef5;
+}
+

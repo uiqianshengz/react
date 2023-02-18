@@ -1,0 +1,30 @@
+.Userbox{
+    margin: 20px;
+}
+.header{
+    background-color: #fff;
+    margin: 20px 0px;
+    padding: 15px 100px 15px 30px;
+}
+.formBtn{
+    display: flex;
+    justify-content: flex-end;
+}
+.bottom{
+    background-color: #fff;
+    margin: 20px 0px;
+    padding: 0px 20px;
+}
+.bottom .btn{
+    padding: 18px 0px;
+    border-bottom: 2px solid #f4f4f4;
+}
+/* .userImage{
+    width: 40px;
+    height: 40px;
+    background-color: #c0c4cc;
+    border-radius: 50%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+} */

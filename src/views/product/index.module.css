@@ -1,0 +1,44 @@
+.brandIntroduce,
+.conditionalQuery {
+    background-color: #fff;
+}
+
+.conditionalQuery {
+    margin-bottom: 30px;
+}
+
+.productBody {
+    margin: 25px;
+}
+
+.brandListTable {
+    margin: 25px;
+    background-color: #fff;
+}
+
+
+.queryBtns {
+    float: right;
+}
+
+.queryBtn {
+    margin-left: 10px;
+}
+
+
+
+
+.editableCell {
+    position: relative;
+}
+
+.editableCellValueWrap {
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+.editableRow:hover .editableCellValueWrap {
+    padding: 4px 11px;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+}
